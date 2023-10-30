@@ -1,5 +1,5 @@
 import java.util.*;
-public class loops{
+public class 06_2_loops{
     public static void main(String[] args) {
 
         Scanner scan=new Scanner(System.in);
