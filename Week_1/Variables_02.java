@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Variables{
+public class Variables_02{
     public static void main(String[] args) {
         //datatypes 
        //initialization,declaration 
