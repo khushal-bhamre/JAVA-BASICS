@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class functions{
+public class 07_functions{
     static void greet(){
         System.out.println("Khushal");
     }
