@@ -1,5 +1,5 @@
 import java.util.Scanner; //importing scanner class
-public class input{
+public class 04_input{
     public static void main(String[] args) {
 
 //operations by assigning values itself
